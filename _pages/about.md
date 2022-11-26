@@ -11,6 +11,7 @@ redirect_from:
 I am an evolutionary biologist and behavioral ecologist studying how social interactions lead to biodiversity, both within and across species. My work often involves hummingbirds, which provide a dizzying array of phenotypic and behavioral variation to draw inspiration from. I currently work as a postdoctoral researcher in the [Behavioral Ecophysics Lab](http://ecophysics.org/) at the University of Washington, with Dr. Alejandro Rico-Guevara, and as a Fellow with the [Smithsonian Tropical Research Institute](https://stri.si.edu/) in the Republic of Panama.
 
 # Research
+
 ## Social Selection and Polymorphism
 
 Extravagant ornamentation in animals, and it's presence and absence in nature, has been an enduring fascination of humans throughout history. I study the evolution of ornamentation through the lens of social selection, a powerful framework for elucidating how social interactions and biodiversity interact, potentially leading to evolution of coloration, weaponry, chemical communication, sound production, and more.
