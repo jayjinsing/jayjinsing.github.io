@@ -9,4 +9,4 @@ paperurl: 'http://jayjinsing.github.io/files/Goolsby2009.pdf'
 citation: #'Goolsby JA, Moran P, Falk JJ, Gilbert LE (2009). Distribution and Spread of an Adventive Population of the Biological Control Agent, <i>Tetramesa romana</i> in Austin, Texas. The Southwestern Entomologist.'
 ---
 
-Recommended citation: Goolsby JA, Moran P, <b>Falk JJ</b>, Gilbert LE. (2009). "Distribution and Spread of an Adventive Population of the Biological Control Agent, <i>Tetramesa romana</i> in Austin, Texas" <i>The Southwestern Entomologist</i>. 34(3).
+Goolsby JA, Moran P, <b>Falk JJ</b>, Gilbert LE. (2009). "Distribution and Spread of an Adventive Population of the Biological Control Agent, <i>Tetramesa romana</i> in Austin, Texas" <i>The Southwestern Entomologist</i>. 34(3). 
