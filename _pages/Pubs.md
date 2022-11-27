@@ -17,6 +17,9 @@ Somjee U, Shankar A, <b>Falk JJ</b> (2022). <b><i>Can Sex-Specific Metabolic Rat
 
 <b>Falk JJ</b>, Webster MS, Rubenstein DR (2021). <b><i>Male-like ornamentation in female hummingbirds results from social harassment rather than sexual selection</i></b>. Current Biology. [PDF](/files/Falk2022CB.pdf) [DOI](https://doi.org/10.1016/j.cub.2021.07.043) [Data](https://doi.org/10.5281/zenodo.5035295)
 
+: Graphical Abstract
+: ![Graphical abstract](/images/Graphical%20Abstract.jpg)
+
 : Selected Media Coverage: [New York Times](https://www.nytimes.com/2021/08/26/science/hummingbirds-female.html), [The Atlantic](https://www.theatlantic.com/science/archive/2021/08/female-hummingbirds-look-like-males/619893/), [National Geographic](https://www.nationalgeographic.co.uk/animals/2021/08/why-some-female-hummingbirds-masquerade-as-males), [Popular Science](https://www.popsci.com/animals/female-hummingbird-social-selection/), [Science News](https://www.sciencenews.org/article/female-hummingbird-flashy-feathers-males-harassment-attacks), [Forbes](https://www.forbes.com/sites/saratabin/2021/09/08/male-plumage-might-help-female-hummingbirds-avoid-bullying/?sh=37d71e3e7b25), and... [The Onion](https://www.theonion.com/female-hummingbirds-avoid-harassment-by-looking-like-ma-1847600416)
 
 Diamant ES, <b>Falk JJ</b>, Rubenstein DR (2021). <b><i>Male-like female morphs in hummingbirds: the evolution of a widespread sex-limited plumage polymorphism.</i></b> Proceedings of the Royal Society B. [PDF](/files/Diamant2021PRSB.pdf) [DOI](https://doi.org/10.1098/rspb.2020.3004)
