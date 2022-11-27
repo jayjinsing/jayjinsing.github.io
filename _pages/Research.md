@@ -30,7 +30,7 @@ Sexual dimorphism, when non-reproductive traits differ between males and females
 
 In white-necked jacobin hummingbirds (Florisuga mellivora), males and most females have different coloration, yet 20% of females are male-like in coloration and are indistinguishable from males in the field. Importantly, this plumage color diversity in females represents a dimorphic species in which sex and coloration are dissociated, thereby providing a unique opportunity to study the genetic and molecular mechanisms of sexual dimorphism.coloration, yet 20% of females are male-like in coloration and are indistinguishable from males in the field. Importantly, this plumage color diversity in females represents a dimorphic species in which sex and coloration are dissociated, thereby providing a unique opportunity to study the genetic and molecular mechanisms of sexual dimorphism.
 
-![Roadmap for doing genetics](/images/Genetics.png
+![Roadmap for doing genetics](/images/Genetics.png)
 
 Beginning in 2023, I will begin an NSF Postdoctoral Fellowship with Dr. Scott Taylor at CU Boulder and Dr. Owen McMillian at the Smithsonian Tropical Research Institute (STRI) in Panama to study the mechanistic basis of this polymorphism and to elucidate broad patterns of between-sex variation in this and other animal species
 
