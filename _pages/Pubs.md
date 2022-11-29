@@ -12,7 +12,7 @@ author_profile: true
 : Comment by Tim Caro in <i>Nature News & Views</i>: [Female birds disguised as males get extra food](/files/Caro2022.pdf)
 <br/><br/>
 
-Somjee U, Shankar A, <b>Falk JJ</b> (2022). <b><i>Can Sex-Specific Metabolic Rates Provide Insight into Patterns of Metabolic Scaling?</i></b> Integrative and Comparative Biology. [DOI](https://doi.org/10.1093/icb/icac135)
+Somjee U, Shankar A, <b>Falk JJ</b> (2022). <b><i>Can Sex-Specific Metabolic Rates Provide Insight into Patterns of Metabolic Scaling?</i></b> Integrative and Comparative Biology. [PDF](/files/Somjee2022.pdf] [DOI](https://doi.org/10.1093/icb/icac135)
 <br/><br/>
 
 <b>Falk JJ</b>, Webster MS, Rubenstein DR (2021). <b><i>Male-like ornamentation in female hummingbirds results from social harassment rather than sexual selection</i></b>. Current Biology. [PDF](/files/Falk2022CB.pdf) [DOI](https://doi.org/10.1016/j.cub.2021.07.043) [Data](https://doi.org/10.5281/zenodo.5035295)
