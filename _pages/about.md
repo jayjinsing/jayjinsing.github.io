@@ -10,7 +10,7 @@ redirect_from:
 
 I am an evolutionary biologist and behavioral ecologist studying how social interactions lead to biodiversity, both within and across species. My work often involves hummingbirds, which provide a dizzying array of phenotypic and behavioral variation to draw inspiration from. I currently work as a postdoctoral researcher in the [Behavioral Ecophysics Lab](http://ecophysics.org/) at the University of Washington, with Dr. Alejandro Rico-Guevara, and as a Fellow with the [Smithsonian Tropical Research Institute](https://stri.si.edu/) in the Republic of Panama.
 
-Reach by email at j.jinsing@gmail.com
+<b>Contact me</b>: [j.jinsing@gmail.com](j.jinsing@gmail.com)
 
 ![Photo of Jay working at a table in the forest](/images/workfield.jpg)
 
