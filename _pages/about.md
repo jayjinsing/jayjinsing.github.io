@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an evolutionary biologist and behavioral ecologist studying how social interactions lead to biodiversity, both within and across species. My work often involves hummingbirds, which provide a dizzying array of phenotypic and behavioral variation to draw inspiration from. I am National Science Foundation Postdoctoral Researcher Fellow working with [Dr. Scott Taylor](https://www.colorado.edu/lab/taylor/) at the University of Colorado - Boulder, and a [Smithsonian Tropical Research Institute](https://stri.si.edu/) Fellow in the Republic of Panama.
+I am an evolutionary biologist and behavioral ecologist studying how social interactions lead to biodiversity, both within and across species. My work often involves hummingbirds, which provide a dizzying array of phenotypic and behavioral variation to draw inspiration from. I am National Science Foundation Postdoctoral Fellow working with [Dr. Scott Taylor](https://www.colorado.edu/lab/taylor/) at the University of Colorado - Boulder, and a [Smithsonian Tropical Research Institute](https://stri.si.edu/) Fellow in the Republic of Panama.
 
 Contact me: [j.jinsing@gmail.com](mailto:j.jinsing@gmail.com)
 
