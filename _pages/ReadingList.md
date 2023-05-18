@@ -5,11 +5,11 @@ title: "Queering Biology"
 author_profile: true
 ---
 
-<i>Queering</i> is a technique that challenges and questions categorical concepts, especially those related to sexual identity, gender expression, and heteronormative assumptions. Applied to biology, queering interrogates narratives of what is "normal" and "abnormal" across the diversity life on earth, including humans. How have the biological sciences constructed and policed modern categories of sex and gender identity? 
+<i>Queering</i> is a technique that challenges and questions categorical concepts, especially those related to sexual identity, gender expression, and heteronormative assumptions. Applied to biology, queering interrogates narratives of what is "normal" and "abnormal" across the diversity of life on earth, including humans. How have the biological sciences constructed and policed modern categories of sex and gender identity? 
 
-This page is a collection of works that have influenced my personal thinking on queering biology, and may be useful to others on a similar journey. There is no text book or complete go-to resource on this topic. Thereofore, I have included works that are partially but not entirely relevant, and inclusion on this list should not be considered a wholesale endorsement. 
+This page is a collection of works that have influenced my personal thinking on queering biology, and may be useful to others on a similar journey. There is no text book or complete go-to resource on this topic. Therefore, I have included works that are partially but not entirely relevant, and inclusion on this list should not be considered a wholesale endorsement. 
 
-Queering biology is interdisciplinary, so this list includes not only scientific content, but also history, autobiography, and philosophy. Fiction can also create space for "playful re-imaginings" of alternate social and biological possibilities. Of course, I am an evolutionary biologist and I am drawn to writing that pertains to this field. <b>If you need a place to start</b>, I recommend Dr. Karen Warkentin's lecture (a broad cross-species perspective), <i>Sexing the Body</i> by Anne Austo-Sterling (a human perspective), and <i>How Far the Light Reaches</i> by Sabrina Imbler (a beautifully queer blend of science and memior). If you have recommendations for additions, please let know! 
+Queering biology is interdisciplinary, so this list includes not only scientific content, but also history, autobiography, and philosophy. Fiction can also create space for "playful re-imaginings" of alternate social and biological possibilities. Of course, I am an evolutionary biologist and I am drawn to writing that pertains to this field. <b>If you need a place to start</b>, I recommend Dr. Karen Warkentin's lecture (a broad cross-species perspective), <i>Sexing the Body</i> by Anne Austo-Sterling (a human perspective), and <i>How Far the Light Reaches</i> by Sabrina Imbler (a beautifully queer blend of science and memoir). If you have recommendations for additions, please let me know! 
 
 ## Books:
 
@@ -67,6 +67,11 @@ Ross Brooks
 [An alternative hypothesis for the evolution of same-sex sexual behaviour in animals](https://www.researchgate.net/publication/337334393_An_alternative_hypothesis_for_the_evolution_of_same-sex_sexual_behaviour_in_animals)\
 Julia D. Monk, Erin Giglio, Ambika Kamath, Max R. Lambert & Caitlin E. McDonough 
 
+[Weird sex: the underappreciated diversity of sexual reproduction](https://royalsocietypublishing.org/toc/rstb/2016/371/1706)\
+This is a journal theme issue with several papers compiled and edited by Duur Aanen, Madeleine Beekman and Hanna Kokko
+
+> "Weird Sex <i>really refers to our weird tendency to ignore most of what lives around us."</i>
+
 ## Recorded Media
 
 [Queerly Natural](https://www.queerlynatural.com/podcast) Podcast\
@@ -85,7 +90,8 @@ Karen Warkentin\
 Tools for promoting diversity & inclusivity in biology classrooms
 
 
-Gender-Inclusive Biology
+[Gender-Inclusive Biology](https://www.genderinclusivebiology.com/)
+Sam Long, Lewis Steller, and River X. Suh
 
 [Trans inclusion in the biology classroom](https://www.jfmclaughlin.org/blog/trans-inclusion-in-the-biology-classroom)\
 Jess McLaughlin

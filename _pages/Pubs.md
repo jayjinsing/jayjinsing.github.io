@@ -5,6 +5,8 @@ title: "Publications"
 author_profile: true
 ---
 
+Anderson A, <b>Falk JJ</b>. <b><i>Cross-sexual Transfer Revisited</i></b>. Integrative and Comparative Biology. [PDF](/files/Anderson2023.pdf) [DOI](https://doi.org/10.1093/icb/icad021)
+
 Longbottom C, <b>Falk JJ</b>, Greenway EV, Johnson MG, Ramos C, Rößler DC, Rubin JJ, Somjee U (2022). <b><i>Why does the Matador Bug, </i>Anisoscelis alipes <i>(Hemiptera: Coreidae), Wave its Brightly Colored Legs? </i></b>Journal of Insect Behavior. [PDF](/files/Longbottom2022.pdf) [DOI](https://doi.org/10.1007/s10905-022-09809-0)
 
 <b>Falk JJ</b>, Rubenstein DR, Rico-Guevara A, Webster MS (2022). <b><i>Intersexual social dominance mimicry drives female hummingbird polymorphism</i></b>. Proceedings of the Royal Society B. [PDF](https://jayjinsing.github.io/files/Falk2022ISDM.pdf) [DOI](https://doi.org/10.1098/rspb.2022.0332) [Data](https://zenodo.org/record/6975352) 
