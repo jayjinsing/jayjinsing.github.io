@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: /Pubs/
 
-  #- title: "Queering Biology"
-  #  url: /ReadingList/
+  - title: "Queering Biology"
+    url: /ReadingList/
 
   #- title: "Publications"
   #  url: /publications/
