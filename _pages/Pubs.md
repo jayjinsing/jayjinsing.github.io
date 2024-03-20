@@ -5,6 +5,8 @@ title: "Publications"
 author_profile: true
 ---
 
+Fernandez-Duque F, Miller ET, Fernandez-Duque M, <b>Falk JJ</b>, Venable G, Rabinowicz S, Becker CD, Hauber ME (2023). <b><i>Phenotype predicts interspecific dominance hierarchies in a cloud-forest hummingbird guild</i></b>. Ethology. [PDF](/files/Fernandez‐Duque2023.pdf) [DOI] (https://doi.org/10.1111/eth.13410)
+
 Anderson A, <b>Falk JJ</b> (2023). <b><i>Cross-sexual Transfer Revisited</i></b>. Integrative and Comparative Biology. [PDF](/files/Anderson2023.pdf) [DOI](https://doi.org/10.1093/icb/icad021)
 
 Longbottom C, <b>Falk JJ</b>, Greenway EV, Johnson MG, Ramos C, Rößler DC, Rubin JJ, Somjee U (2022). <b><i>Why does the Matador Bug, </i>Anisoscelis alipes <i>(Hemiptera: Coreidae), Wave its Brightly Colored Legs? </i></b>Journal of Insect Behavior. [PDF](/files/Longbottom2022.pdf) [DOI](https://doi.org/10.1007/s10905-022-09809-0)
