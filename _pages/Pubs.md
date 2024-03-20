@@ -5,7 +5,7 @@ title: "Publications"
 author_profile: true
 ---
 
-Fernandez-Duque F, Miller ET, Fernandez-Duque M, <b>Falk JJ</b>, Venable G, Rabinowicz S, Becker CD, Hauber ME (2023). <b><i>Phenotype predicts interspecific dominance hierarchies in a cloud-forest hummingbird guild</i></b>. Ethology. [PDF](/files/Fernandez‐Duque2023.pdf) [DOI] (https://doi.org/10.1111/eth.13410)
+Fernandez-Duque F, Miller ET, Fernandez-Duque M, <b>Falk JJ</b>, Venable G, Rabinowicz S, Becker CD, Hauber ME (2023). <b><i>Phenotype predicts interspecific dominance hierarchies in a cloud-forest hummingbird guild</i></b>. Ethology. [PDF](/files/Fernandez‐Duque2023.pdf) [DOI](https://doi.org/10.1111/eth.13410)
 
 Anderson A, <b>Falk JJ</b> (2023). <b><i>Cross-sexual Transfer Revisited</i></b>. Integrative and Comparative Biology. [PDF](/files/Anderson2023.pdf) [DOI](https://doi.org/10.1093/icb/icad021)
 
