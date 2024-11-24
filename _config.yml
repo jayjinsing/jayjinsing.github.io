@@ -103,8 +103,9 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  mastodon         : "ecoevo.social/@jjinsing"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  mastodon         : 
+  bluesky          : "jjinsing.bsky.social"
+  orcid            : "http://orcid.org/0000-0001-5809-575X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
