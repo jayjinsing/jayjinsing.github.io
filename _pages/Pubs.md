@@ -5,7 +5,7 @@ title: "Publications"
 author_profile: true
 ---
 
-Rubin JJ, Medina-Madrid JL, <b>Falk JJ</b>, Somjee U (2024). <b><i>The matador bug's elaborate flags deter avian predators</i></b>. Behavioral Ecology. [PDF](/files/Rubin2024BE.pdf) [DOI](https://doi.org/10.1093/beheco/arae019)
+Rubi JJ, Medina-Madrid JL, <b>Falk JJ</b>, Somjee U (2024). <b><i>The matador bug's elaborate flags deter avian predators</i></b>. Behavioral Ecology. [PDF](/files/Rubin2024BE.pdf) [DOI](https://doi.org/10.1093/beheco/arae019)
 <br/><br/>
 
 Fernandez-Duque F, Miller ET, Fernandez-Duque M, <b>Falk JJ</b>, Venable G, Rabinowicz S, Becker CD, Hauber ME (2023). <b><i>Phenotype predicts interspecific dominance hierarchies in a cloud-forest hummingbird guild</i></b>. Ethology. [PDF](/files/Fernandez‐Duque2023.pdf) [DOI](https://doi.org/10.1111/eth.13410)
