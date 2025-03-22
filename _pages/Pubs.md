@@ -5,7 +5,7 @@ title: "Publications"
 author_profile: true
 ---
 
-<b>Falk JJ</b>, Sargent A, Medina-Madrid JL, Rico-Guevara A. <b><i>The daily life of a hummingbird: High-throughput tracking shows a spectrum of feeding and movement strategies</i></b>. <i>In Review<i>. [Preprint](https://doi.org/10.1101/2025.02.25.640146)
+<b>Falk JJ</b>, Sargent A, Medina-Madrid JL, Rico-Guevara A. <b><i>The daily life of a hummingbird: High-throughput tracking shows a spectrum of feeding and movement strategies</i></b>. In Review. [Preprint](https://doi.org/10.1101/2025.02.25.640146)
 <br/><br/>
 
 <b>Falk JJ</b>, Castaño-Díaz M, Gallan-Giraldo S, See J, Taylor S (2025). <b><i>Potential caterpillar mimicry in a tropical hummingbird</i></b>. Ecology. [PDF](/files/Falk2025Eco.pdf) [DOI](https://doi.org/10.1002/ecy.70060)
@@ -14,7 +14,7 @@ author_profile: true
 <b>Falk JJ</b>, Bergstrom CT, Zollman KJS, Rico-Guevara A (2025). <b><i>Partial honesty in a hummingbird polymorphism provides evidence for a hybrid equilibrium</i></b>. Animal Behaviour. [PDF](/files/Falk2025AnimBeh.pdf) [DOI](https://doi.org/10.1016/j.anbehav.2025.123104)
 <br/><br/>
 
-Guo Y, <b>Falk JJ</b>, Medina-Madrid JL, Wang S (2025). <b><i>Courtship behavior of a secretive forest tinamou, Tinamus major (Great Tinamou)</i></b>. Ornithology. [PDF](/files/Guo2025.pdf) [DOI](https://doi.org/10.1093/ornithology/ukae062)
+Guo Y, <b>Falk JJ</b>, Medina-Madrid JL, Wang S (2025). <b><i>Courtship behavior of a secretive forest tinamou, </i>Tinamus major<i> (Great Tinamou)</i></b>. Ornithology. [PDF](/files/Guo2025.pdf) [DOI](https://doi.org/10.1093/ornithology/ukae062)
 <br/><br/>
 
 Rubin JJ, Medina-Madrid JL, <b>Falk JJ</b>, Somjee U (2024). <b><i>The matador bug's elaborate flags deter avian predators</i></b>. Behavioral Ecology. [PDF](/files/Rubin2024BE.pdf) [DOI](https://doi.org/10.1093/beheco/arae019)
