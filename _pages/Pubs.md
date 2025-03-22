@@ -4,6 +4,10 @@ permalink: /Pubs/
 title: "Publications"
 author_profile: true
 ---
+
+<b>Falk JJ</b>, Sargent A, Medina-Madrid JL, Rico-Guevara A. <b><i>The daily life of a hummingbird: High-throughput tracking shows a spectrum of feeding and movement strategies</i></b>. <i>In Review<i>. [Preprint](https://doi.org/10.1101/2025.02.25.640146 )
+
+
 <b>Falk JJ</b>, Castaño-Díaz M, Gallan-Giraldo S, See J, Taylor S (2025). <b><i>Potential caterpillar mimicry in a tropical hummingbird</i></b>. Ecology. [PDF](/files/Falk2025Eco.pdf) [DOI](https://doi.org/10.1002/ecy.70060)
 <br/><br/>
 
