@@ -53,6 +53,9 @@ Sabrina Imbler
 [My Metamorphosis](https://www.harpersbazaar.com/culture/features/a42167371/insects-sabrina-imbler/)\
 Sabrina Imbler
 
+[My Metamorphosis](https://orionmagazine.org/article/key-changes/)\
+Sabrina Imbler
+
 [Queer Theory for Lichens](/files/QueerTheoryLichens.pdf)\
 David Griffiths
 
@@ -95,4 +98,7 @@ Sam Long, Lewis Steller, and River X. Suh
 
 [Trans inclusion in the biology classroom](https://www.jfmclaughlin.org/blog/trans-inclusion-in-the-biology-classroom)\
 Jess McLaughlin
+
+[“It’s completely erasure”: A Qualitative Exploration of Experiences of Transgender, Nonbinary, Gender Nonconforming, and Questioning Students in Biology Course](https://www.lifescied.org/doi/pdf/10.1187/cbe.21-12-0343)
+Aramati Casper
 
