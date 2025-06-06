@@ -17,7 +17,7 @@ author_profile: true
 <br/>
 
 Guo Y, <b>Falk JJ</b>, Medina-Madrid JL, Wang S (2025). <b><i>Courtship behavior of a secretive forest tinamou, </i>Tinamus major<i> (Great Tinamou)</i></b>. Ornithology. [PDF](/files/Guo2025.pdf) [DOI](https://doi.org/10.1093/ornithology/ukae062)
-<br/><br/>
+<br/>
 
 Rubin JJ, Medina-Madrid JL, <b>Falk JJ</b>, Somjee U (2024). <b><i>The matador bug's elaborate flags deter avian predators</i></b>. Behavioral Ecology. [PDF](/files/Rubin2024BE.pdf) [DOI](https://doi.org/10.1093/beheco/arae019)
 <br/>
