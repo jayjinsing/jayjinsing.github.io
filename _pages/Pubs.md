@@ -5,6 +5,8 @@ title: "Publications"
 author_profile: true
 ---
 <br/>
+<b>Falk JJ</b>, Webster MS, Rubenstein DR. <b><i>The adaptive maintenance of phenotypic polymorphism</i></b>. In Review. [Preprint](https://ecoevorxiv.org/repository/view/8968/)
+
 <b>Falk JJ</b>, Sargent A, Medina-Madrid JL, Rico-Guevara A. <b><i>The daily life of a hummingbird: High-throughput tracking shows a spectrum of feeding and movement strategies</i></b>. In Review. [Preprint](https://doi.org/10.1101/2025.02.25.640146)
 <br/>
 
