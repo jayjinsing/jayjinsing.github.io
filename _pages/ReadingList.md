@@ -55,7 +55,7 @@ Sabrina Imbler
 
 [Key Changes](https://orionmagazine.org/article/key-changes/)\
 Sabrina Imbler\
-See also the series that this essay was a part of: [Queer Planet: A Celebration of Biodiversity](https://orionmagazine.org/issue/spring-2025/)
+<i>See the rest of the series of essays [Queer Planet: A Celebration of Biodiversity}(https://orionmagazine.org/issue/spring-2025/)<i>
 
 [Queer Theory for Lichens](/files/QueerTheoryLichens.pdf)\
 David Griffiths
