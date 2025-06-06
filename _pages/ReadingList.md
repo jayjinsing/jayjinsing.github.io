@@ -53,8 +53,9 @@ Sabrina Imbler
 [My Metamorphosis](https://www.harpersbazaar.com/culture/features/a42167371/insects-sabrina-imbler/)\
 Sabrina Imbler
 
-[My Metamorphosis](https://orionmagazine.org/article/key-changes/)\
-Sabrina Imbler
+[Key Changes](https://orionmagazine.org/article/key-changes/)\
+Sabrina Imbler\
+See also the series that this essay was a part of: [Queer Planet: A Celebration of Biodiversity](https://orionmagazine.org/issue/spring-2025/)
 
 [Queer Theory for Lichens](/files/QueerTheoryLichens.pdf)\
 David Griffiths
@@ -68,7 +69,11 @@ Ross Brooks
 ## Scientific Reviews and Perspectives
 
 [An alternative hypothesis for the evolution of same-sex sexual behaviour in animals](https://www.researchgate.net/publication/337334393_An_alternative_hypothesis_for_the_evolution_of_same-sex_sexual_behaviour_in_animals)\
-Julia D. Monk, Erin Giglio, Ambika Kamath, Max R. Lambert & Caitlin E. McDonough 
+Julia D. Monk, Erin Giglio, Ambika Kamath, Max R. Lambert & Caitlin E. McDonough
+
+[Multivariate Models of Animal Sex: Breaking Binaries Leads to a Better Understanding of Ecology and Evolution](https://doi.org/10.1093/icb/icad027)\
+J F McLaughlin, Kinsey M Brock, Isabella Gates, Anisha Pethkar, Marcus Piattoni, Alexis Rossi, & Sara E Lipshutz\
+<i>See other papers published from the [Sexual Diversity and Variation Symposium](https://academic.oup.com/icb/issue/63/4), organized by Kelsey Lewis and Sam L Sharpe at the 2023 SICB Conference<i>
 
 [Weird sex: the underappreciated diversity of sexual reproduction](https://royalsocietypublishing.org/toc/rstb/2016/371/1706)\
 This is a journal theme issue with several papers compiled and edited by Duur Aanen, Madeleine Beekman and Hanna Kokko
