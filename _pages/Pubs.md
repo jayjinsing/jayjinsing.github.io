@@ -5,7 +5,7 @@ title: "Publications"
 author_profile: true
 ---
 <br/>
-Griffith EV, <b>Falk JJ</b>, Kimball RT (2026). <b><i>Hormonal influences on sexual dichromatism across the avian tree of life: a primer</i></b>. Integrative & Comparative Biology. [PDF](/files/Griffith2026ICB.pdf) [DOI](https://doi-org.colorado.idm.oclc.org/10.1093/icb/icag079)
+Griffith EV, <b>Falk JJ</b>, Kimball RT (2026). <b><i>Hormonal influences on sexual dichromatism across the avian tree of life: a primer</i></b>. Integrative & Comparative Biology. [PDF](/files/Griffith2026ICB.pdf) [DOI](https://doi-org.colorado.idm.oclc.org/10.1093/icb/icag079).
 
 <b>Falk JJ</b>, Webster MS, Rubenstein DR (2026). <b><i>Hypotheses for the adaptive maintenance of phenotypic polymorphisms</i></b>. Ecology & Evolution. [PDF](/files/Falk2026EEHypotheses.pdf) [DOI](https://doi.org/10.1002/ece3.73493)
 
