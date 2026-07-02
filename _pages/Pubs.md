@@ -5,9 +5,11 @@ title: "Publications"
 author_profile: true
 ---
 <br/>
-<b>Falk JJ</b>, Webster MS, Rubenstein DR. <b><i>Hypotheses for the adaptive maintenance of phenotypic polymorphisms</i></b>. Ecology & Evolution. [PDF](/files/Falk2026EEHypotheses.pdf) [DOI](https://doi.org/10.1002/ece3.73493)
+Griffith EV, <b>Falk JJ</b>, Kimball RT (2026). <b><i>Hormonal influences on sexual dichromatism across the avian tree of life: a primer</i></b>. Integrative & Comparative Biology. [PDF](/files/Griffith2026ICB.pdf) [DOI](https://doi-org.colorado.idm.oclc.org/10.1093/icb/icag079)
 
-Svensson, E, <b>Falk JJ</b>, Iversen L, Lavanchy G, Roberts NS, Tunström K, Lancaster LT. <b><i>The origin, genomics and evolution of female-limited polymorphism</i></b>. Philosophical Transactions of the Royal Society B. [PDF](/files/Svensson2026PRSB.pdf) [DOI](https://doi.org/10.1098/rstb.2025.0175)
+<b>Falk JJ</b>, Webster MS, Rubenstein DR (2026). <b><i>Hypotheses for the adaptive maintenance of phenotypic polymorphisms</i></b>. Ecology & Evolution. [PDF](/files/Falk2026EEHypotheses.pdf) [DOI](https://doi.org/10.1002/ece3.73493)
+
+Svensson, E, <b>Falk JJ</b>, Iversen L, Lavanchy G, Roberts NS, Tunström K, Lancaster LT (2025). <b><i>The origin, genomics and evolution of female-limited polymorphism</i></b>. Philosophical Transactions of the Royal Society B. [PDF](/files/Svensson2026PRSB.pdf) [DOI](https://doi.org/10.1098/rstb.2025.0175)
 
 <b>Falk JJ</b>, Sargent A, Medina-Madrid JL, Rico-Guevara A. <b><i>The daily life of a hummingbird: High-throughput tracking shows a spectrum of feeding and movement strategies</i></b>. In Review. [Preprint](https://doi.org/10.1101/2025.02.25.640146)
 <br/>
